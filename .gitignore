@@ -1,0 +1,8 @@
+/node_modules
+/backend-nestjs/node_modules
+/frontend-Angular/node_modules
+*.png
+.vscode
+.vs
+*/dist/*
+*/test/*
